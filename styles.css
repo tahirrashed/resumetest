@@ -1,0 +1,23 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: thick;
+  height: 0px;
+  width: 4%;
+}
+
+h1 {
+  color: #75daad;
+  text-shadow: 2px 2px 5px orange;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+form {}
